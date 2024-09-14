@@ -19,3 +19,22 @@ Web development is a constantly evolving sector in the Computer World. It allows
 There’s always something new to learn, whether it’s a new programming language, framework, or design trend. I'll engage myself to be familiar with the different programming languages and how to use them for development efficiently.
 Since I’m an AI student, machine learning is always something that piques my curiosity. Using the data that you provide , the computers are allowed to make decisions which allows it to do numerous tasks efficiently.
 I will learn more into the topic since the ideas are unlimited on how data can be used and execute them in ethical ways.
+
+
+# Task Status 
+My task statistics are shown as below : 
+
+| Task List | Description                    | Status          |
+|-----------|---------------------------------|-----------------|
+| [Task-00](#) | Install Linux                | Completed       |
+| [Task-01](#) | Type Maestro                 | Completed       |
+| [Task-02](#) | Terminal Chaos               | Completed       |
+| [Task-03](#) | Hello, World!                | Not attempted   |
+| [Task-04](#) | Gopal and His Pagepal        | Partially done  |
+| [Task-05](#) | Terminal Trolly              | Not attempted   |
+| [Task-06](#) | OpenDocs                     | Completed       |
+| [Task-07](#) | Pirate's Dilemma             | Not attempted   |
+| [Task-08](#) | Blog Burst                   | Completed       |
+| [Task-09](#) | HERO-DEX!                    | Not attempted   |
+| [Task-10](#) | Operation Pixel Merge        | Not attempted   |
+
